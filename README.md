@@ -1,4 +1,3 @@
-# Basic-Port-Scanner
 Basic Port Scanner - Python Project
 ===================================
 
